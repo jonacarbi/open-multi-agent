@@ -1,3 +1,5 @@
+> Standalone copy of [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) with my own changes. Original license and history retained.
+
 <br />
 
 <p align="center">

@@ -35,9 +35,9 @@ _Entry points, important modules, config, secrets location (not values)._
 
 - **Project:** `open-multi-agent`
 - **Branch:** `main`
-- **Last updated:** 2026-10-13 17:32:30 -03
-- **Built on commit:** 1f87f76 — feat(orchestrator): optional revealCoordinator to inject team context into worker prompts (#245) (Jack Chen, 2026-05-23)
-- **README says:** <br />
+- **Last updated:** 2026-10-13 17:32:31 -03
+- **Built on commit:** 25fec99 — feat(scripts): add Copilot provider setup script (Jonathan Carbiere, 2026-10-13)
+- **README says:** > Standalone copy of [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) with my own changes. Original license and history retained.
 
 ## How to build / run / test
 
@@ -59,6 +59,7 @@ _Entry points, important modules, config, secrets location (not values)._
 - CLAUDE.md
 - docs/
 - examples/
+- HANDOFF.md
 - LICENSE
 - package-lock.json
 - package.json
@@ -73,7 +74,7 @@ _Entry points, important modules, config, secrets location (not values)._
 ## Languages
 
 - .ts — 163 file(s)
-- .md — 29 file(s)
+- .md — 30 file(s)
 - .json — 24 file(s)
 - .svg — 5 file(s)
 - .png — 5 file(s)
@@ -86,10 +87,11 @@ _Entry points, important modules, config, secrets location (not values)._
 
 ## Changes in this commit
 
-- A	scripts/setup-copilot.sh
+- M	README.md
 
 ## Recent history
 
+- 25fec99 feat(scripts): add Copilot provider setup script _(Jonathan Carbiere, 2026-10-13)_
 - 1f87f76 feat(orchestrator): optional revealCoordinator to inject team context into worker prompts (#245) _(Jack Chen, 2026-05-23)_
 
 <!-- HANDOFF:AUTO:END -->
